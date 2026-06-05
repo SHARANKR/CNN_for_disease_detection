@@ -1,0 +1,2 @@
+# CNN_for_disease_detection
+CNN_for_COVID_or_PNEUMONIA_detection
