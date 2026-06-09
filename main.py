@@ -1,5 +1,4 @@
-import os
-from app.data_import.data_import_file import train_data
+from fastapi import FastAPI
+# from app.api.routers import
 
-length = os.listdir(train_data)
-print(length)
+api = FastAPI()
